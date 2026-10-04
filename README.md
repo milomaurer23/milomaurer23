@@ -22,7 +22,7 @@ by day i work in neurotech at the UC Berkeley Neurotech Collider Lab.
 
 #### focus + Mac
 
-- **[Foqos for Mac](https://github.com/milomaurer23/foqos-for-mac)**: my native macOS port of the open-source [Foqos](https://github.com/awaseem/foqos). blocks sites and quits distracting apps during a session, with a focus tracker
+- **[Foqos Mac (Milo's personal build)](https://github.com/milomaurer23/foqos-for-mac)**: my personal Mac build of [Foqos](https://github.com/awaseem/foqos) by [Ali Waseem](https://github.com/awaseem). blocks sites and quits distracting apps during a session, with a focus tracker
 - **[QuickNotes](https://github.com/milomaurer23/quicknotes-macos-widget)** and **[Timekeeper](https://github.com/milomaurer23/timekeeper-macos-widget)**: small SwiftUI widgets for daily notes and time tracking
 
 #### music tools + experiments
